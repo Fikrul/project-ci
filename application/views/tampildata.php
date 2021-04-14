@@ -35,12 +35,6 @@
 								Tambah Data</button>
 						</a>
 					</div>
-					<div class="col-md-12" style="padding-bottom: 15px;">
-						<a href="#">
-							<button type="button" class="btn btn-primary"><span class="glyphicon glyphicon-plus"></span>
-								Ini Halaman Baru</button>
-						</a>
-					</div>
 
 					<div class="col-md-12">
 						<div class="table-responsive">
